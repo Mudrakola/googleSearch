@@ -1,0 +1,18 @@
+.list-container {
+  list-style-type: none;
+}
+.arrowImage {
+  height: 22px;
+  width: 22px;
+  align-self: center;
+}
+.para {
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
+
+.containerList {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
